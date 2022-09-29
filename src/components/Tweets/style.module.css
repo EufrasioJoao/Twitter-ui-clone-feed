@@ -1,0 +1,16 @@
+/* ================ tweets_section_header  ======================*/
+.tweets_section_header {
+    width: 100%;
+    padding: 14px 0;
+    border-bottom: 2px solid var(--twitter);
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.tweets_section_header:hover {
+    background-color: var(--twitter-dark-hover);
+}
+.tweets_section_header span {
+    color: var(--twitter);
+    font-weight: 700;
+}

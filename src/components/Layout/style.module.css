@@ -1,0 +1,12 @@
+.container {
+    background: var(--primary);
+}
+.wrapper {
+    background: var(--primary);
+    max-width: 1280px;
+    height: 100%;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: center;
+}
